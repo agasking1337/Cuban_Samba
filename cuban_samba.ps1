@@ -1,3 +1,5 @@
+Clear-Host
+Write-Host "Working..."
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type @"
     using System;
